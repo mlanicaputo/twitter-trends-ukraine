@@ -83,13 +83,19 @@ The USA and India are in top 10s of both countries, which makes sense because th
 
 ### Question 3: How many *favorites* do Tweets about Sweden or Finland get?
 
+The majority of tweets regarding Sweden/Finland have no favorites. This suggests that the majority of these tweets have a fairly low impact; i.e. few users are saving these tweets in order to return to them later. However, Sweden has slightly more tweets with a favorite count than Finland does. The distributions of the two topics' favorite counts are shown below.
+
 ![Favorites Sweden](./images/favorite_counts_of_tweets_mentioning_sweden.png)
 ![Favorites Finland](./images/favorite_counts_of_tweets_mentioning_finland.png)
 
 ### Question 4: How many *retweets* do Tweets about Sweden or Finland get?
 
+Tweets regarding Finland are retweeted more than tweets regarding Sweden. Finland tweets' median retweet count is 40, while Sweden tweets' median retweet count is 1. The vast majority of tweets about Sweden have very few retweets, while Finland shows steady retweet activity between 100-500 tweets. By contrast, there were no tweets regarding Sweden that got more than 100 retweets. The data is shown in the graphs below.
+
 ![Retweets Sweden](./images/retweet_counts_of_tweets_mentioning_sweden.png)
 ![Retweets Finland](./images/retweet_counts_of_tweets_mentioning_finland.png)
+
+Based on this data, it is clear that tweets about Finland are shared more and make it further from the original tweet poster than do tweets about Sweden.
 
 ### Question 5: What are the most common keywords in Tweets mentioning Sweden? ... mentioning Finland?
 
