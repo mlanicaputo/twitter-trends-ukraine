@@ -99,6 +99,8 @@ Based on this data, it is clear that tweets about Finland are shared more and ma
 
 ### Question 5: What are the most common keywords in Tweets mentioning Sweden? ... mentioning Finland?
 
+# REMOVE ZELENSKY, VOLODYMYR FROM CONSIDERATION IN KEYWORDS
+
 ![Keywords Sweden](./images/top_10_most_common_words_in_tweets_about_sweden.png)
 ![Keywords Finland](./images/top_10_most_common_words_in_tweets_about_finland.png)
 
