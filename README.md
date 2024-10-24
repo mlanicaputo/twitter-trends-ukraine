@@ -99,12 +99,16 @@ Based on this data, it is clear that tweets about Finland are shared more and ma
 
 ### Question 5: What are the most common keywords in Tweets mentioning Sweden? ... mentioning Finland?
 
-# REMOVE ZELENSKY, VOLODYMYR FROM CONSIDERATION IN KEYWORDS
+Tweets mentioning Sweden have a strong tendency to also mention Finland. Controlling for common words, the most likely word to be mentioned in a tweet about Sweden is "Finland." By contrast, tweets mentioning Finland are not likely to mention Sweden. This suggests that Sweden's relevance is likely tied to Finland's relevance and is not popular as an independent topic. The most common words in tweets about both countries are shown below.
 
 ![Keywords Sweden](./images/top_10_most_common_words_in_tweets_about_sweden.png)
 ![Keywords Finland](./images/top_10_most_common_words_in_tweets_about_finland.png)
 
+Tweets about Finland also frequently contain the word "support," suggesting that there is measurable support for Finland's entry into NATO in tweets about the war.
+
 ### Question 6: What is the sentiment distribution in Tweets mentioning Sweden? ... mentioning Finland?
+
+Tweets about Sweden and Finland are largely neutral. However, Sweden tweets tend to fall slightly to the negative side of neutral and Finland tweets tend to fall slightly to the positive side of neutral. Additionally, there is a significant body of tweets about Finland that are maximally positive. This indicates a trend of strong support for Finland within a larger neutral distribution. This trend of strong support does not exist for Sweden in this body of tweets. The sentiment distributions of tweets for both topics are shown below.
 
 ![Sentiment Sweden](./images/sentiment_distribution_of_tweets_mentioning_sweden.png)
 ![Sentiment Finland](./images/sentiment_distribution_of_tweets_mentioning_finland.png)
